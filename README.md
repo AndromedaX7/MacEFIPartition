@@ -1,4 +1,4 @@
-##笔记本 mac EFI分区
+## 笔记本 mac EFI分区
 
 本项目为[clover version:5119,MacOs:10.15.5](5119/10.15.5) EFI  
 [小米ruby2019 i5-8250u uhd620 mx110 EFI](5119/10.15.5/mi)  
